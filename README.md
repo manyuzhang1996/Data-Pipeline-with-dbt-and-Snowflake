@@ -1,8 +1,11 @@
 # Data Pipeline Project with dbt and Snowflake
-This project uses the sample data provided by Snowflake to practice building data pipeline with dbt. Follow Code Along Project shared by [jayzern](https://www.youtube.com/@jayzern)
+This project uses the sample data provided by Snowflake to practice building data pipeline with dbt. Follow Code Along Project shared by [jayzern](https://www.youtube.com/@jayzern).
 
 ### Dataset
-Snowflake sample data [TPC-H](https://docs.snowflake.com/en/user-guide/sample-data-tpch)
+Snowflake sample data [TPC-H](https://docs.snowflake.com/en/user-guide/sample-data-tpch).
+
+
+<img width="615" alt="sample-data-tpch-schema" src="https://github.com/manyuzhang1996/Data-Pipeline-with-dbt-and-Snowflake/assets/111943220/2efd3801-6eb7-4ebd-ba8a-982189d5face">
 
 ### Steps
 - Register for Snowflake account
